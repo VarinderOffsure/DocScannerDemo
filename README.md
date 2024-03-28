@@ -1,18 +1,7 @@
 # DocScannerDemo
 
-<p align="center">
-    <img width="900px" src="Assets/WeScan-Banner.jpg">
-</p>
 
-<p align="center">
-<img src="https://app.bitrise.io/app/df00af454f27891d.svg?token=spjxNvzjnRqug6GfGM3_Lg"/>
-<img src="https://img.shields.io/cocoapods/l/WeScan.svg?style=flat"/>
-<img src="https://img.shields.io/cocoapods/p/WeScan.svg?style=flat"/>
-<img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
-</p>
-
-**WeScan : Run it in Real device** makes it easy to add scanning functionalities to your iOS app!
+**DocScanner : Run it in Real device** makes it easy to add scanning functionalities to your iOS app!
 It's modelled after `UIImagePickerController`, which makes it a breeze to use.
 
 - [Features](#features)
